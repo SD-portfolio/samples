@@ -1,6 +1,6 @@
 # Steve Diniro's portfolio
 
-Welcome to my portfolio!
+Welcome to my samples portfolio!
 
 This repository contains a small but varied cross-section of the content that I create.
 
